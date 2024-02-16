@@ -1,0 +1,157 @@
+/* for desktop */
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.61%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+/* nav style starts */
+.nav-logo {
+    text-align: left;
+}
+
+.nav-heading h1 {
+    text-align: right;
+}
+
+.navbar-menu {
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.navbar-menu a {
+    padding: 5px 10px;
+    margin: 20px 10px;
+}
+
+/* nav style end */
+
+/* profile starts  */
+.profile .top-weather-icon {
+    right: 100px;
+    width: 150px;
+    transition: transform 2s;
+    top: 20px;
+}
+
+.profile .top-weather-icon:hover {
+    opacity: 0.5;
+
+}
+
+.profile .bottom-weather-icon {
+    bottom: 10px;
+    left: 100px;
+    width: 142px;
+    transition: transform 2s;
+
+}
+
+.profile .bottom-weather-icon:hover {
+
+    opacity: 0.5;
+}
+
+.profile-desc h1 {
+    font-family: 'satisfy', cursive;
+    font-size: 3rem;
+
+}
+
+.profile-desc h1::first-line {
+
+    font-size: 4rem;
+
+}
+
+.profile-desc p {
+    margin: 0 auto 20px auto;
+    color: gray;
+    text-align: center;
+    width: 90%;
+
+}
+
+/* profile end  */
+
+/* About me start */
+.aboutme-image {
+    margin-top: 130px;
+
+}
+
+.about-me p {
+    text-align: start;
+}
+
+.about-me {
+
+    padding: 2% 10% 10% 10%;
+
+}
+
+.aboutme-desc {
+    margin-top: 100px;
+
+
+
+}
+
+.aboutme-image img {
+    width: 280px;
+    height: 300px;
+}
+
+/* About me end */
+
+/*  professional experience start   */
+.hr-professional {
+    width: 35%;
+}
+
+
+
+
+
